@@ -11,6 +11,10 @@
   --color-bg-custom-1: #ecfbe8;
   --color-bg-custom-2: #6dc258;
 
+  --color-text-custom-brown-1:#6f350e;
+
+  --color-bg-custom-brown-1: #fceacf;
+
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);

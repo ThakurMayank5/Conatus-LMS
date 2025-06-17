@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Cornatus",
+  title: "Conatus",
   description: "LMS platform for Cornatus",
 };
 
